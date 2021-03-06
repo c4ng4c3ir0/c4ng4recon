@@ -6,8 +6,8 @@ echo
 echo
 echo
 
-
-echo "digite o nome do site (não a url)"
+echo Vamos criar uma pasta para salvar os arquivos enumerados!
+echo "Digite o nome: "
 read  pasta
 echo
 echo
