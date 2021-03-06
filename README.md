@@ -18,21 +18,18 @@ Execution:
 
 Requeriments:
 
-https://github.com/projectdiscovery/httpx
-
-https://github.com/brentp/gargs
-
-https://github.com/tomnomnom/waybackurls
-
-https://github.com/lc/gau
+https://github.com/projectdiscovery/httpx<br>
+https://github.com/brentp/gargs<br>
+https://github.com/tomnomnom/waybackurls<br>
+https://github.com/lc/gau<br>
 <br>
 <br>
 <br>
 Credits to creators of tools above
 
-https://github.com/brentp
-https://github.com/lc
-https://github.com/projectdiscovery
-https://github.com/tomnomnom
-https://github.com/m4ll0k
-https://github.com/GerbenJavado
+https://github.com/brentp<br>
+https://github.com/lc<br>
+https://github.com/projectdiscovery<br>
+https://github.com/tomnomnom<br>
+https://github.com/m4ll0k<br>
+https://github.com/GerbenJavado<br>
