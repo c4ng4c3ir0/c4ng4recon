@@ -3,6 +3,6 @@
 
 sudo pip3 install -r requirements.txt
 
-sudo cp linkfinder.py /
+sudo mv linkfinder.py /
 
-sudo cp collector.py /
+sudo mv collector.py /
